@@ -13,3 +13,4 @@
 	- Context input and feedback (Similar to changing the volume on iOS)
 	- iPhone X
 	- iPhone X Style Multitasking
+	- Multitasking Screen - Timeline scrubber
