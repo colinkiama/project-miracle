@@ -7,3 +7,7 @@ A modern take on retired, beloved operating system's visual design
 - [ ] Home Screen
 	- [ ] Main Home Screen
 	- [ ] All Apps
+
+
+## Special Thanks
+- Fluent Design Community Discord Server
