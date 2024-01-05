@@ -1,7 +1,8 @@
 repo_name: colinkiama/project-miracle
 report_id: d6a3555d9053233c5e83b4bfa0767976
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T07:15:03+00:00'
+timestamp: '2024-01-05T08:49:49+00:00'
 requested_by: colinkiama
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/colinkiama/project-miracle
   detection_source: Repo Metadata
